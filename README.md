@@ -1,1 +1,1 @@
-This is Xin Zhang (张鑫), a PhD student at Peking University. His research focus is in the area of system security and micro-architectural attacks. If you are interested in his research, please feel free to contact him via E-mail (zhangxin00@stu.pku.edu.cn).
+This is Junkai Liang, a PhD student at Peking University. His research interestes are in the areas of the fault injection attack, cryptographic implementation analysis and zero knowledge. If you are interested in his research, please feel free to contact him via E-mail (ljknjupku@gmail.com).
