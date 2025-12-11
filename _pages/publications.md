@@ -7,11 +7,11 @@ author_profile: true
 
 In the past few years, I have been dedicating my efforts to publish papers on top-tier conferences in computer security (CCS, IEEE S&P, Usenix Security, and NDSS). I also contribute to other well-regarded conferences in hardware security (e.g., DAC, DATE, and CHES). 
 
-Publications at Conferences (3 papers): USENIX Security ('25)*2, DAC('25)
+Publications at Conferences (3+ papers): USENIX Security ('25)*2, DAC('25)
 
-Publications at Journals (4 papers): The Computer Journal ('24)
+Publications at Journals (4+ papers): The Computer Journal ('24)
 
-Publications Ranking Statistics: 3 CCF-A papers (3 first-author), 1 CCF-B paper
+Publications Ranking Statistics: 3+ CCF-A papers (3+ first-author), 1+ CCF-B paper
 
 
 {% include base_path %}
