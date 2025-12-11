@@ -36,7 +36,7 @@ Publications Ranking Statistics: 3+ CCF-A papers (3+ first-author), 1+ CCF-B pap
   Computer Networks (CCF-B) <br/>
 
 - <sub> [SINICA] **Hierarchical Identity-Based Encryption Based on SM9** [[paper](http://scis.scichina.com/cn/2024/SSI-2023-0232.pdf)] <br/>
-  Cong Li, Junkai Liang, Yujia Ding, Qingni Shen, Zhonghai Wu <br/>
+  Cong Li, **Junkai Liang**, Yujia Ding, Qingni Shen, Zhonghai Wu <br/>
   SCIENTIA SINICA Informationis (CCF-A) <br/>
 
 
