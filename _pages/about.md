@@ -14,6 +14,7 @@ I am a fourth-year Ph.D student at Peking University, fortunately advised by Pro
 My research interests are in the areas of the fault injection attack, cryptographic implementation analysis and zero knowledge proofs.
 
 ### News!
+- [2025/11] Our paper "HyperSiniel: Guaranteed Output Delivery Comes (Almost) Free in Private Delegation of zkSNARKs" was accepted by *Transactions on Dependable and Secure Computing* (TDSC) ! Congratulations!!
 - [2025/09] I am in a research intern at Ant research lab this summer.
 - [2025/06] "Achilles" has been awarded the "Honorable Mentions" by Usenix Security 2025 (top 25 out of 2385 submissions).
 
