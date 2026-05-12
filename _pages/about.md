@@ -44,7 +44,7 @@ My research interests are in the areas of the fault injection attack, cryptograp
 * [Xin Zhang (Peking University)](https://zhangxin00.github.io/)
 * [Shengfang Zhai (National University of Singapore)](https://zhaisf.github.io/)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8'></script>
+
 
 
 
